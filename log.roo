@@ -1,0 +1,20 @@
+// Spring Roo 1.2.1.RELEASE [rev 6eae723] log opened at 2012-03-18 13:52:39
+hint
+metadata status
+reference guide
+process manager debug 
+process manager debug 
+poll status
+download view 
+project --topLevelPackage net.darkdev.projects --projectName quickmatch
+hint
+jpa setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY 
+hint
+// Spring Roo 1.2.1.RELEASE [rev 6eae723] log opened at 2012-03-18 15:34:24
+hint
+hint
+hint
+hint
+hint
+hint
+hint
